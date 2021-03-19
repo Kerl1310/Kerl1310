@@ -1,26 +1,28 @@
-<h3 align="center">
-  Hi, I'm Kyle 👋
-</h3>
+<h1 align="center">
+  Hi, I'm Kyle <img src="./assets/images/waving_hand.gif" width="28px">
+</h1>
+
 
 <!--Socials-->
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/kylejones1310/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/Kerl1310/Kerl1310/blob/main/images/linkedin.svg"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://dev.to/kerldev" title="DEV.to Profile">
-      <img width="22" src="https://github.com/Kerl1310/Kerl1310/blob/main/images/hackerrank.png"> DEV.to</a>
-  </code>
-  <code>
-    <a href="https://stackoverflow.com/story/kylejones" title="Stack Overflow Profile">
-      <img width="22" src="https://github.com/Kerl1310/Kerl1310/blob/main/images/stackoverflow.svg"> Stack Overflow</a>
-  </code>
-  <code>
-    <a href="https://kyle-jones.medium.com/" title="Medium Profile">
-      <img width="22" src="https://github.com/Kerl1310/Kerl1310/blob/main/images/medium.svg"> Medium</a>
-  </code>
+    <a href= "https://kylejones.io" title="Go to my website">
+        <img width="28" src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kylejones1310/" title="Go to my LinkedIn Profile">
+        <img width="28" src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png" />
+    </a>
+    <a href="https://stackoverflow.com/story/kylejones" title="Go to my Stack Overflow Profile">
+        <img width="28" src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png" />
+    </a>
+    <a href="https://kyle-jones.medium.com/" title="Go to my Medium Profile">
+        <img width="28" src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png" />
+    </a>
+    <a href="https://www.buymeacoffee.com/KyleJones" title="Buy me a Coffee">
+        <img width="28" src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png" />
+    </a>
 </h5>
+
+<br>
 
 <!--About Me-->
 <p align="left">
@@ -32,7 +34,7 @@ I'm Kyle, a Vegan Software Engineer from Wales.
 
 🌱 I'm mentoring budding software engineers.
 
-📚 I’m currently learning front-end technologies like [Gatsby](https://www.gatsbyjs.com/) and [React](https://reactjs.org/) while studying for some <a href="https://www.youracclaim.com/users/kyle-jones.ca340517/badges" title="See my certifications">AWS Certifications</a>.
+📚 I’m currently learning front-end technologies like <a href="https://www.gatsbyjs.com/" title="Find out more about Gatsby here">Gatsby</a> and <a href="https://reactjs.org/" title="Find out more about React here">React</a> while studying for some <a href="https://www.youracclaim.com/users/kyle-jones.ca340517/badges" title="See my certifications">AWS Certifications</a>.
 
 <!--📖 I'm reading-->
 
@@ -44,12 +46,14 @@ I'm Kyle, a Vegan Software Engineer from Wales.
 <h2 align="center">
   Stats
 </h2>
-<div>
+
+<br>
+
+<div align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Kerl1310&theme=tokyonight" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Kerl1310&theme=tokyonight&cache_seconds=86400" />
   </a>
-  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerl1310&theme=tokyonight&langs_count=8&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerl1310&theme=tokyonight&langs_count=8&layout=compact&cache_seconds=86400" />
   </a>
 </div>
