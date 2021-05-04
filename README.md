@@ -26,7 +26,7 @@
 
 <!--About Me-->
 <p align="left">
-I'm Kyle, a Vegan Software Engineer from Wales.
+  I'm Kyle, a Welsh Vegan Software Engineer at <a href="https://www.madetech.com/">Made Tech</a>.
 
 😄 Pronouns: He/Him
 
