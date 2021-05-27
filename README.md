@@ -63,6 +63,9 @@
     <a href="https://www.credly.com/badges/b84a373c-5a8b-4edc-ba47-1b3809d3e470/public_url" title="View Certification">
       <img height=120 alt="AWS Developer Associate badge" align="center" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" />
     </a>
+    <a href="https://www.credly.com/badges/537e404c-fb51-4558-9d8c-296ed9576eb6/public_url" title="View Certification">
+      <img height=120 alt="AWS SysOps Administrator Associate badge" align="center" src="https://images.credly.com/size/680x680/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" />
+    </a>
   </div>
 </div>
 
