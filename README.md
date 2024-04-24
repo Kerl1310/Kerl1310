@@ -7,9 +7,6 @@
 <!--Socials-->
 <div title="Socials">
   <p align="center">
-    <a href= "https://kylejones.io" title="Go to my website">
-      <img width="28" alt="Globe icon" src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-    </a>
     <a href="https://www.linkedin.com/in/kylejones1310/" title="Go to my LinkedIn Profile">
       <img width="28" alt="LinkedIn icon" src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png" />
     </a>
@@ -38,7 +35,7 @@
 
   🌱 I'm mentoring budding software engineers.
 
-  📚 I'm currently learning front-end technologies like <a href="https://www.gatsbyjs.com/" title="Find out more about Gatsby here">Gatsby</a> and <a href="https://reactjs.org/" title="Find out more about React here">React</a> while studying for some <a href="https://www.credly.com/users/kyle-jones.ca340517/badges" title="See my certifications">AWS Certifications</a>.
+  📚 I'm currently learning front-end technologies like <a href="https://www.gatsbyjs.com/" title="Find out more about Gatsby here">Gatsby</a> and <a href="https://reactjs.org/" title="Find out more about React here">React</a> while studying for some <a href="https://www.credly.com/users/kyle-jones.ca340517/badges" title="See my certifications">new Certifications</a>.
 
   📫 How to reach me: <a href="mailto:kylejones1310@outlook.com">kylejones1310@outlook.com</a>
   </p>
