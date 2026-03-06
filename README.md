@@ -93,7 +93,7 @@
 	    <img title="C#" alt="C#" src="./assets/images/csharp.svg" height="40" />
     </span>
     <span style="margin:5px">
-	    <img title="JavaScript" alt="Ruby" src="./assets/images/javascript.svg" height="40" />
+	    <img title="JavaScript" alt="JavaScript" src="./assets/images/javascript.svg" height="40" />
     </span>
     <span style="margin:5px">
       <img title="Python" alt="Python" src="./assets/images/python.svg" height="40" />
