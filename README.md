@@ -152,11 +152,12 @@
   <br>
 
   <div align="justify">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height=175 alt="General Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Kerl1310&theme=tokyonight&cache_seconds=86400" />
+    <p align=centre>
+    <a href="https://github.com/stats-organization/github-stats-extended" title="Go to Source">
+      <img height=175 alt="General Github Stats" align="center" src="https://github-stats-extended.vercel.app/api?username=kerl1310&theme=tokyonight&cache_seconds=86400" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height=175 alt="Language Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerl1310&theme=tokyonight&langs_count=8&layout=compact&cache_seconds=86400" />
+      <img height=175 alt="Language Stats" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Kerl1310&theme=tokyonight&langs_count=8&layout=compact&cache_seconds=86400" />
     </a>
   </div>
 </div>
